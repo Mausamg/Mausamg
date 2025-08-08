@@ -18,7 +18,7 @@
 🎓 A passionate **Computer Science student** focused on building solutions through code.  
 💡 Always learning, creating, and collaborating to bring innovative ideas to life.  
 🔥 I enjoy **Frontend + Backend** development, UI design, and problem-solving.  
-🌐 Currently learning **Django to integrate with React as frontend**
+🌐 Currently learning **Django to integrate with React as frontend.**
 
 ---
 
