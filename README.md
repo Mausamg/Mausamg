@@ -61,8 +61,9 @@
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js" alt="C# and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,python,django" alt="C, C++, JavaScript, React, Python, and Django" />
 </p>
+
 
 ### 💻 Frontend
 <p>
@@ -76,7 +77,7 @@
 
 ### 🧰 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,notion,rider" alt="Git, GitHub, VS Code, Visual Studio, Figma, Notion, Rider" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" alt="Git, GitHub, VS Code, Visual Studio, Figma" />
 </p>
 
 ---
